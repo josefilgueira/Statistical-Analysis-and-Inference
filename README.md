@@ -38,13 +38,13 @@ The work combines **statistical theory with applied analysis**, emphasizing corr
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**  
-  Used for data cleaning, calculations, and validation of results.
+  Used for data cleaning, exploratory analysis, statistical calculations, and result validation.
 
-- **Statistical analysis & reporting**  
+- **R**  
+  Applied for statistical analysis, hypothesis testing, and reproducible computation using built-in statistical functions.
+
+- **Statistical reporting**  
   Results are documented in a structured PDF report, prioritizing clarity, rigor, and interpretability.
-
-- **Applied statistical inference**  
-  Focus on reasoning, assumptions, and decision-making based on data.
 
 ---
 
